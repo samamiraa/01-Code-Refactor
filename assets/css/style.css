@@ -107,7 +107,9 @@ p {
     background-color: #2589bd;
 }
 
-.margin-bottom {
+.benefit-lead,
+.benefit-brand,
+.benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
