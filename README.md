@@ -31,6 +31,9 @@ If you used any third-party assets that require attribution, list the creators w
 
 https://www.w3schools.com/html/html_head.asp
 https://www.w3schools.com/html/tryit.asp?filename=tryhtml_classes_multiple
+https://www.w3schools.com/html/html_links.asp
+https://www.w3schools.com/html/html5_semantic_elements.asp
+
 
 ## License
 
