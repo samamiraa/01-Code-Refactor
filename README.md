@@ -1,15 +1,10 @@
 # 01-Code-Refactor
 Refactor Code to meet acceptance criteria.
-# <Your-Project-Title>
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+I was motivated by wanting to learn how to organize and declutter code to be as efficient as possible. Taking the starter code and making it as clean and organized has helped me practice so that when I am creating my own page, I can follow a similar structure and always use the best practice. The problems refactoring solves are organization and efficiency with the code sheets. That way any future team members working on same project will have no issues locating what they are looking for. I learned how important it is to stay organized when coding. Any projects that are disorganized can easily become a huge mess that may cause many errors in the future.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
 
 ## Installation
 
