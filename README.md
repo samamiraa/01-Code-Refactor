@@ -14,13 +14,11 @@ N/A
 
 In the header there are 3 navigation links. When each link is clicked, the page will jump down to the respective section. Please see screenshots for examples. 
 
+When this link is clicked,
 <img width="282" alt="SEO-Link" src="https://github.com/samamiraa/01-Code-Refactor/assets/146762114/a3c471d8-7e50-447f-97e0-ce9ab714749e">
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+it will jump here.
+<img width="962" alt="SEO Paragraph" src="https://github.com/samamiraa/01-Code-Refactor/assets/146762114/e00b0633-5cbc-425c-ad7d-d5491de0c0c6">
 
 ## Credits
 
