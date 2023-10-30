@@ -14,6 +14,12 @@ N/A
 
 Provide instructions and examples for use. Include screenshots as needed.
 
+In the header there are 3 navigation links. When each link is clicked, the page will jump down to the respective section. Please see screenshots for examples. 
+
+```md
+![SEO Link](assets/README%20Screenshots/SEO%20Link.png)
+```
+
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     ```md
