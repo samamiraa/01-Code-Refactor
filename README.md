@@ -12,12 +12,10 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
 In the header there are 3 navigation links. When each link is clicked, the page will jump down to the respective section. Please see screenshots for examples. 
 
 ```md
-![SEO Link](assets/README%20Screenshots/SEO%20Link.png)
+![SEO Button](assets/README-Screenshots/SEO-Link.png)
 ```
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
@@ -27,8 +25,6 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ```
 
 ## Credits
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 
 https://www.w3schools.com/html/html_head.asp
 https://www.w3schools.com/html/tryit.asp?filename=tryhtml_classes_multiple
@@ -48,9 +44,7 @@ The last section of a high-quality README file is the license. This lets other d
 
 ## Badges
 
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+N/A
 
 ## Features
 
@@ -62,4 +56,4 @@ N/A
 
 ## Tests
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+To test that the links are working propely. Please click each link. Once clicked, the page will jump down to the respective section relevant to that link title.
