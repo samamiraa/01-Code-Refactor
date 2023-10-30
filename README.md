@@ -33,6 +33,8 @@ https://www.w3schools.com/html/html_head.asp
 https://www.w3schools.com/html/tryit.asp?filename=tryhtml_classes_multiple
 https://www.w3schools.com/html/html_links.asp
 https://www.w3schools.com/html/html5_semantic_elements.asp
+https://blog.hubspot.com/website/comment-out-in-css
+https://www.w3schools.com/cssref/sel_all.php
 
 
 ## License
