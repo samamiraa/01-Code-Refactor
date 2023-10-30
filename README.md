@@ -21,7 +21,7 @@ When this link is clicked,
 
 it will jump here.
 
-<img width="962" alt="SEO Paragraph" src="https://github.com/samamiraa/01-Code-Refactor/assets/146762114/e00b0633-5cbc-425c-ad7d-d5491de0c0c6">
+<img width="964" alt="SEO paragraph" src="https://github.com/samamiraa/01-Code-Refactor/assets/146762114/102b6e9a-48e9-4c18-8c98-9452569e6325">
 
 ## Credits
 
